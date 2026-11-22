@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Charles Yang Hong
 
-<!--
-**charleshong1/charleshong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## University
+La Trobe University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Course
+BUS4005
+
+## My CV
+[View My CV](https://github.com/charleshong1/charleshong1-CV)
+
+## BUS4005 GitHub Workshop
+[View Workshop Repository](https://github.com/charleshong1/workshop-demo)
